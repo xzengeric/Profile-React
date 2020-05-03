@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Jumbotron from "react-bootstrap/jumbotron"
+import Jumbotron from "react-bootstrap/Jumbotron"
 import "../components/Style/style.css"
 import CodeQuiz from "../components/assets/images/CodeQuiz.PNG"
 import passwordGenerator from "../components/assets/images/passwordGenerator.PNG"

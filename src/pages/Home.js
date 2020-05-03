@@ -1,8 +1,8 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React from 'react'
 
-import Jumbotron from "react-bootstrap/Jumbotron"
-import { Container , Row, Col, Card} from "react-bootstrap"
+
+import { Jumbotron, Container , Row, Col, Card} from "react-bootstrap"
 
 import profilePhoto from "../components/assets/images/profilePhoto.jpg"
 
