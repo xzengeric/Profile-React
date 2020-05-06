@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Profile-React/static/css/main.1f397359.chunk.css",
+    "main.js": "/Profile-React/static/js/main.34a40f63.chunk.js",
+    "main.js.map": "/Profile-React/static/js/main.34a40f63.chunk.js.map",
+    "runtime-main.js": "/Profile-React/static/js/runtime-main.babd7d0d.js",
+    "runtime-main.js.map": "/Profile-React/static/js/runtime-main.babd7d0d.js.map",
+    "static/css/2.d7c2f83c.chunk.css": "/Profile-React/static/css/2.d7c2f83c.chunk.css",
+    "static/js/2.4f886e20.chunk.js": "/Profile-React/static/js/2.4f886e20.chunk.js",
+    "static/js/2.4f886e20.chunk.js.map": "/Profile-React/static/js/2.4f886e20.chunk.js.map",
+    "index.html": "/Profile-React/index.html",
+    "precache-manifest.b591b8c616fc56211a9e96c88eabc2e3.js": "/Profile-React/precache-manifest.b591b8c616fc56211a9e96c88eabc2e3.js",
+    "service-worker.js": "/Profile-React/service-worker.js",
+    "static/css/2.d7c2f83c.chunk.css.map": "/Profile-React/static/css/2.d7c2f83c.chunk.css.map",
+    "static/css/main.1f397359.chunk.css.map": "/Profile-React/static/css/main.1f397359.chunk.css.map",
+    "static/js/2.4f886e20.chunk.js.LICENSE.txt": "/Profile-React/static/js/2.4f886e20.chunk.js.LICENSE.txt",
+    "static/media/CodeQuiz.PNG": "/Profile-React/static/media/CodeQuiz.d8624a61.PNG",
+    "static/media/passwordGenerator.PNG": "/Profile-React/static/media/passwordGenerator.b323a525.PNG",
+    "static/media/profilePhoto.jpg": "/Profile-React/static/media/profilePhoto.998e2e72.jpg",
+    "static/media/project1.PNG": "/Profile-React/static/media/project1.438c9ab7.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.babd7d0d.js",
+    "static/css/2.d7c2f83c.chunk.css",
+    "static/js/2.4f886e20.chunk.js",
+    "static/css/main.1f397359.chunk.css",
+    "static/js/main.34a40f63.chunk.js"
+  ]
+}
